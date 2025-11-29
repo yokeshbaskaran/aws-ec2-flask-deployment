@@ -1,4 +1,4 @@
-⁉️**EC2 Flask Tech Quiz Game**
+# EC2 Flask Tech Quiz Game ⁉️
 
 A simple interactive quiz game deployed on an Amazon EC2 instance using a Python Flask backend. Users can answer cloud, Linux, and programming-related multiple-choice questions, making it a great beginner-friendly project to demonstrate EC2 hosting, security groups, Linux configuration, and Flask application deployment.
 
@@ -50,22 +50,22 @@ techquiz/
 
 ## 🔧 **AWS Services Used**
 
-1. Amazon EC2
-2. Security Groups
-3. EC2 Key Pair
+1. **Amazon EC2**
+2. **Security Groups**
+3. **EC2 Key Pair**
 
 ## 🛠️ **Setup Instructions**
 
-1. Launch EC2 Instance
-2. SSH into EC2
-3. Install Dependencies
-4. Upload Your Project
-5. Run Application
-6. Open in Browser
+**1.** Launch EC2 Instance
+**2.** SSH into EC2
+**3.** Install Dependencies
+**4.** Upload Your Project
+**5.** Run Application
+**6.** Open in Browser
 
 -> Refer to the full documentation for detailed implementation steps.
 
-📄Documentation: [documentation.pdf](https://github.com/user-attachments/files/23833754/documentation.pdf)
+**📄Documentation**: [documentation.pdf](https://github.com/user-attachments/files/23833754/documentation.pdf)
 
 ## 🌐 **Live Demo (Optional)**
 
