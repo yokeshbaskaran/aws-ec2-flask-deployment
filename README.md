@@ -1,4 +1,4 @@
-# EC2 Flask Tech Quiz Game ⁉️
+# EC2 Flask Tech Quiz Game
 
 A simple interactive quiz game deployed on an Amazon EC2 instance using a Python Flask backend. Users can answer cloud, Linux, and programming-related multiple-choice questions, making it a great beginner-friendly project to demonstrate EC2 hosting, security groups, Linux configuration, and Flask application deployment.
 
@@ -45,7 +45,7 @@ techquiz/
 2. The frontend sends a request to `/get_question`.
 3. Flask returns a random question + options in JSON format.
 4. User selects an answer → frontend checks correctness.
-5. User can click **Next Question** to fetch a new one.
+5. The user can click **Next Question** to fetch a new one.
 6. All processing happens on the EC2-hosted Flask backend.
 
 ## 🔧 **AWS Services Used**
@@ -65,7 +65,7 @@ techquiz/
 
 -> Refer to the full documentation for detailed implementation steps.
 
-**📄Documentation**: [documentation.pdf](https://github.com/user-attachments/files/23833754/documentation.pdf)
+**📄Documentation**: [documentation.pdf](https://github.com/user-attachments/files/23960141/aws-ec2-flask-deployment.pdf)
 
 ## 🌐 **Live Demo (Optional)**
 
